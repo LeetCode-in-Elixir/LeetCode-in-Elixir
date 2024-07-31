@@ -211,6 +211,8 @@ Elixir-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0007 |[Reverse Integer](src/main/elixir/g0001_0100/s0007_reverse_integer/Solution.ex)| Medium | Top_Interview_Questions, Math | 317 | 100.00
+| 0009 |[Palindrome Number](src/main/elixir/g0001_0100/s0009_palindrome_number/Solution.ex)| Easy | Math | 1007 | 87.50
 
 #### Udemy Strings
 
@@ -274,6 +276,7 @@ Elixir-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0010 |[Regular Expression Matching](src/main/elixir/g0001_0100/s0010_regular_expression_matching/Solution.ex)| Hard | Top_Interview_Questions, String, Dynamic_Programming, Recursion, Big_O_Time_O(m\*n)_Space_O(m\*n) | 296 | 100.00
 
 #### Udemy Backtracking/Recursion
 
@@ -1218,6 +1221,11 @@ Elixir-based LeetCode algorithm problem solutions, regularly updated.
 
 | #    |      Title     | Difficulty  | Tag         | Time, ms | Time, %
 |------|----------------|-------------|-------------|----------|---------
+| 0010 |[Regular Expression Matching](src/main/elixir/g0001_0100/s0010_regular_expression_matching/Solution.ex)| Hard | Top_Interview_Questions, String, Dynamic_Programming, Recursion, Udemy_Dynamic_Programming, Big_O_Time_O(m\*n)_Space_O(m\*n) | 296 | 100.00
+| 0009 |[Palindrome Number](src/main/elixir/g0001_0100/s0009_palindrome_number/Solution.ex)| Easy | Math, Udemy_Integers | 1007 | 87.50
+| 0008 |[String to Integer (atoi)](src/main/elixir/g0001_0100/s0008_string_to_integer_atoi/Solution.ex)| Medium | Top_Interview_Questions, String | 352 | 55.56
+| 0007 |[Reverse Integer](src/main/elixir/g0001_0100/s0007_reverse_integer/Solution.ex)| Medium | Top_Interview_Questions, Math, Udemy_Integers | 317 | 100.00
+| 0006 |[Zigzag Conversion](src/main/elixir/g0001_0100/s0006_zigzag_conversion/Solution.ex)| Medium | String | 421 | 100.00
 | 0005 |[Longest Palindromic Substring](src/main/elixir/g0001_0100/s0005_longest_palindromic_substring/Solution.ex)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Data_Structure_II_Day_9_String, Algorithm_II_Day_14_Dynamic_Programming, Dynamic_Programming_I_Day_17, Udemy_Strings, Big_O_Time_O(n)_Space_O(n) | 337 | 100.00
 | 0004 |[Median of Two Sorted Arrays](src/main/elixir/g0001_0100/s0004_median_of_two_sorted_arrays/Solution.ex)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Array, Binary_Search, Divide_and_Conquer, Big_O_Time_O(log(min(N,M)))_Space_O(1) | 474 | 86.21
 | 0003 |[Longest Substring Without Repeating Characters](src/main/elixir/g0001_0100/s0003_longest_substring_without_repeating_characters/Solution.ex)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Sliding_Window, Algorithm_I_Day_6_Sliding_Window, Level_2_Day_14_Sliding_Window/Two_Pointer, Udemy_Strings, Big_O_Time_O(n)_Space_O(1) | 356 | 93.33
