@@ -32,6 +32,7 @@ defmodule Solution do
     {[result | tail], result}
   end
 
+
   def pop_until([h | tail], rest) do
     pop_until(tail, [h | rest])
   end
