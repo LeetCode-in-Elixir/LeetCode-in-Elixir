@@ -4,6 +4,7 @@
 defmodule Solution do
   @cache Agent
 
+  @spec is_match(s :: String.t, p :: String.t) :: boolean
   def is_match(s, p) do
     :ets.new(:cache, [:named_table, :set, {:read_concurrency, true}])
     result = is_match(s, p, 0, 0)
