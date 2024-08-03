@@ -104,6 +104,7 @@ Elixir-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0101 |[Symmetric Tree](src/main/elixir/g0101_0200/s0101_symmetric_tree/Solution.ex)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(log(N)) | 255 | 60.00
 
 #### Day 16 Design
 
@@ -161,6 +162,7 @@ Elixir-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0121 |[Best Time to Buy and Sell Stock](src/main/elixir/g0101_0200/s0121_best_time_to_buy_and_sell_stock/Solution.ex)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(N)_Space_O(1) | 861 | 10.00
 | 0001 |[Two Sum](src/main/elixir/g0001_0100/s0001_two_sum/Solution.ex)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Big_O_Time_O(n)_Space_O(n) | 261 | 94.89
 | 0055 |[Jump Game](src/main/elixir/g0001_0100/s0055_jump_game/Solution.ex)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Greedy, Big_O_Time_O(n)_Space_O(1) | 437 | 100.00
 | 0041 |[First Missing Positive](src/main/elixir/g0001_0100/s0041_first_missing_positive/Solution.ex)| Hard | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Big_O_Time_O(n)_Space_O(n) | 806 | 100.00
@@ -202,6 +204,10 @@ Elixir-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0094 |[Binary Tree Inorder Traversal](src/main/elixir/g0001_0100/s0094_binary_tree_inorder_traversal/Solution.ex)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Tree, Binary_Tree, Stack, Big_O_Time_O(n)_Space_O(n) | 225 | 100.00
+| 0102 |[Binary Tree Level Order Traversal](src/main/elixir/g0101_0200/s0102_binary_tree_level_order_traversal/Solution.ex)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(N) | 252 | 100.00
+| 0104 |[Maximum Depth of Binary Tree](src/main/elixir/g0101_0200/s0104_maximum_depth_of_binary_tree/Solution.ex)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(H) | 254 | 100.00
+| 0098 |[Validate Binary Search Tree](src/main/elixir/g0001_0100/s0098_validate_binary_search_tree/Solution.ex)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Tree, Binary_Tree, Binary_Search_Tree, Big_O_Time_O(N)_Space_O(log(N)) | 239 | 100.00
 
 #### Udemy Trie and Heap
 
@@ -228,6 +234,7 @@ Elixir-based LeetCode algorithm problem solutions, regularly updated.
 |-|-|-|-|-|-
 | 0022 |[Generate Parentheses](src/main/elixir/g0001_0100/s0022_generate_parentheses/Solution.ex)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Backtracking, Big_O_Time_O(2^n)_Space_O(n) | 229 | 100.00
 | 0039 |[Combination Sum](src/main/elixir/g0001_0100/s0039_combination_sum/Solution.ex)| Medium | Top_100_Liked_Questions, Array, Backtracking, Big_O_Time_O(2^n)_Space_O(n+2^n) | 264 | 100.00
+| 0078 |[Subsets](src/main/elixir/g0001_0100/s0078_subsets/Solution.ex)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Bit_Manipulation, Backtracking, Big_O_Time_O(2^n)_Space_O(n\*2^n) | 229 | 100.00
 | 0017 |[Letter Combinations of a Phone Number](src/main/elixir/g0001_0100/s0017_letter_combinations_of_a_phone_number/Solution.ex)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Backtracking, Big_O_Time_O(4^n)_Space_O(n) | 279 | 100.00
 | 0046 |[Permutations](src/main/elixir/g0001_0100/s0046_permutations/Solution.ex)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Backtracking, Big_O_Time_O(n\*n!)_Space_O(n+n!) | 225 | 100.00
 
@@ -259,6 +266,7 @@ Elixir-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0121 |[Best Time to Buy and Sell Stock](src/main/elixir/g0101_0200/s0121_best_time_to_buy_and_sell_stock/Solution.ex)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(N)_Space_O(1) | 861 | 10.00
 
 #### Day 4 Array
 
@@ -297,11 +305,15 @@ Elixir-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0094 |[Binary Tree Inorder Traversal](src/main/elixir/g0001_0100/s0094_binary_tree_inorder_traversal/Solution.ex)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Tree, Binary_Tree, Stack, Big_O_Time_O(n)_Space_O(n) | 225 | 100.00
 
 #### Day 11 Tree
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0102 |[Binary Tree Level Order Traversal](src/main/elixir/g0101_0200/s0102_binary_tree_level_order_traversal/Solution.ex)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(N) | 252 | 100.00
+| 0104 |[Maximum Depth of Binary Tree](src/main/elixir/g0101_0200/s0104_maximum_depth_of_binary_tree/Solution.ex)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(H) | 254 | 100.00
+| 0101 |[Symmetric Tree](src/main/elixir/g0101_0200/s0101_symmetric_tree/Solution.ex)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(log(N)) | 255 | 60.00
 
 #### Day 12 Tree
 
@@ -317,6 +329,7 @@ Elixir-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0098 |[Validate Binary Search Tree](src/main/elixir/g0001_0100/s0098_validate_binary_search_tree/Solution.ex)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Tree, Binary_Tree, Binary_Search_Tree, Big_O_Time_O(N)_Space_O(log(N)) | 239 | 100.00
 
 ### Data Structure II
 
@@ -401,6 +414,7 @@ Elixir-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0105 |[Construct Binary Tree from Preorder and Inorder Traversal](src/main/elixir/g0101_0200/s0105_construct_binary_tree_from_preorder_and_inorder_traversal/Solution.ex)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Tree, Binary_Tree, Divide_and_Conquer, Big_O_Time_O(N)_Space_O(N) | 385 | 100.00
 
 #### Day 16 Tree
 
@@ -561,6 +575,7 @@ Elixir-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0078 |[Subsets](src/main/elixir/g0001_0100/s0078_subsets/Solution.ex)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Bit_Manipulation, Backtracking, Big_O_Time_O(2^n)_Space_O(n\*2^n) | 229 | 100.00
 
 #### Day 10 Recursion Backtracking
 
@@ -574,6 +589,7 @@ Elixir-based LeetCode algorithm problem solutions, regularly updated.
 |-|-|-|-|-|-
 | 0017 |[Letter Combinations of a Phone Number](src/main/elixir/g0001_0100/s0017_letter_combinations_of_a_phone_number/Solution.ex)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Hash_Table, Backtracking, Big_O_Time_O(4^n)_Space_O(n) | 279 | 100.00
 | 0022 |[Generate Parentheses](src/main/elixir/g0001_0100/s0022_generate_parentheses/Solution.ex)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, String, Dynamic_Programming, Backtracking, Big_O_Time_O(2^n)_Space_O(n) | 229 | 100.00
+| 0079 |[Word Search](src/main/elixir/g0001_0100/s0079_word_search/Solution.ex)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Matrix, Backtracking, Big_O_Time_O(4^(m\*n))_Space_O(m\*n) | 1312 | 100.00
 
 #### Day 12 Dynamic Programming
 
@@ -838,6 +854,7 @@ Elixir-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0121 |[Best Time to Buy and Sell Stock](src/main/elixir/g0101_0200/s0121_best_time_to_buy_and_sell_stock/Solution.ex)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(N)_Space_O(1) | 861 | 10.00
 
 #### Day 8
 
@@ -859,6 +876,7 @@ Elixir-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0096 |[Unique Binary Search Trees](src/main/elixir/g0001_0100/s0096_unique_binary_search_trees/Solution.ex)| Medium | Dynamic_Programming, Math, Tree, Binary_Tree, Binary_Search_Tree, Big_O_Time_O(n)_Space_O(1) | 285 | 100.00
 
 #### Day 12
 
@@ -965,6 +983,7 @@ Elixir-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0104 |[Maximum Depth of Binary Tree](src/main/elixir/g0101_0200/s0104_maximum_depth_of_binary_tree/Solution.ex)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(H) | 254 | 100.00
 
 #### Day 11 Containers and Libraries
 
@@ -1231,11 +1250,13 @@ Elixir-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0121 |[Best Time to Buy and Sell Stock](src/main/elixir/g0101_0200/s0121_best_time_to_buy_and_sell_stock/Solution.ex)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Big_O_Time_O(N)_Space_O(1) | 861 | 10.00
 
 #### Day 6 Tree
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0102 |[Binary Tree Level Order Traversal](src/main/elixir/g0101_0200/s0102_binary_tree_level_order_traversal/Solution.ex)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Breadth_First_Search, Tree, Binary_Tree, Big_O_Time_O(N)_Space_O(N) | 252 | 100.00
 
 #### Day 7 Binary Search
 
@@ -1246,6 +1267,7 @@ Elixir-based LeetCode algorithm problem solutions, regularly updated.
 
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- -->
 |-|-|-|-|-|-
+| 0098 |[Validate Binary Search Tree](src/main/elixir/g0001_0100/s0098_validate_binary_search_tree/Solution.ex)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Tree, Binary_Tree, Binary_Search_Tree, Big_O_Time_O(N)_Space_O(log(N)) | 239 | 100.00
 
 #### Day 9 Graph/BFS/DFS
 
@@ -1289,6 +1311,16 @@ Elixir-based LeetCode algorithm problem solutions, regularly updated.
 
 | #    |      Title     | Difficulty  | Tag         | Time, ms | Time, %
 |------|----------------|-------------|-------------|----------|---------
+| 0121 |[Best Time to Buy and Sell Stock](src/main/elixir/g0101_0200/s0121_best_time_to_buy_and_sell_stock/Solution.ex)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Array, Dynamic_Programming, Data_Structure_I_Day_3_Array, Dynamic_Programming_I_Day_7, Level_1_Day_5_Greedy, Udemy_Arrays, Big_O_Time_O(N)_Space_O(1) | 861 | 10.00
+| 0105 |[Construct Binary Tree from Preorder and Inorder Traversal](src/main/elixir/g0101_0200/s0105_construct_binary_tree_from_preorder_and_inorder_traversal/Solution.ex)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Hash_Table, Tree, Binary_Tree, Divide_and_Conquer, Data_Structure_II_Day_15_Tree, Big_O_Time_O(N)_Space_O(N) | 385 | 100.00
+| 0104 |[Maximum Depth of Binary Tree](src/main/elixir/g0101_0200/s0104_maximum_depth_of_binary_tree/Solution.ex)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Data_Structure_I_Day_11_Tree, Programming_Skills_I_Day_10_Linked_List_and_Tree, Udemy_Tree_Stack_Queue, Big_O_Time_O(N)_Space_O(H) | 254 | 100.00
+| 0102 |[Binary Tree Level Order Traversal](src/main/elixir/g0101_0200/s0102_binary_tree_level_order_traversal/Solution.ex)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Breadth_First_Search, Tree, Binary_Tree, Data_Structure_I_Day_11_Tree, Level_1_Day_6_Tree, Udemy_Tree_Stack_Queue, Big_O_Time_O(N)_Space_O(N) | 252 | 100.00
+| 0101 |[Symmetric Tree](src/main/elixir/g0101_0200/s0101_symmetric_tree/Solution.ex)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Breadth_First_Search, Tree, Binary_Tree, Data_Structure_I_Day_11_Tree, Level_2_Day_15_Tree, Big_O_Time_O(N)_Space_O(log(N)) | 255 | 60.00
+| 0098 |[Validate Binary Search Tree](src/main/elixir/g0001_0100/s0098_validate_binary_search_tree/Solution.ex)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Tree, Binary_Tree, Binary_Search_Tree, Data_Structure_I_Day_14_Tree, Level_1_Day_8_Binary_Search_Tree, Udemy_Tree_Stack_Queue, Big_O_Time_O(N)_Space_O(log(N)) | 239 | 100.00
+| 0096 |[Unique Binary Search Trees](src/main/elixir/g0001_0100/s0096_unique_binary_search_trees/Solution.ex)| Medium | Dynamic_Programming, Math, Tree, Binary_Tree, Binary_Search_Tree, Dynamic_Programming_I_Day_11, Big_O_Time_O(n)_Space_O(1) | 285 | 100.00
+| 0094 |[Binary Tree Inorder Traversal](src/main/elixir/g0001_0100/s0094_binary_tree_inorder_traversal/Solution.ex)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Depth_First_Search, Tree, Binary_Tree, Stack, Data_Structure_I_Day_10_Tree, Udemy_Tree_Stack_Queue, Big_O_Time_O(n)_Space_O(n) | 225 | 100.00
+| 0079 |[Word Search](src/main/elixir/g0001_0100/s0079_word_search/Solution.ex)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Matrix, Backtracking, Algorithm_II_Day_11_Recursion_Backtracking, Big_O_Time_O(4^(m\*n))_Space_O(m\*n) | 1312 | 100.00
+| 0078 |[Subsets](src/main/elixir/g0001_0100/s0078_subsets/Solution.ex)| Medium | Top_100_Liked_Questions, Top_Interview_Questions, Array, Bit_Manipulation, Backtracking, Algorithm_II_Day_9_Recursion_Backtracking, Udemy_Backtracking/Recursion, Big_O_Time_O(2^n)_Space_O(n\*2^n) | 229 | 100.00
 | 0074 |[Search a 2D Matrix](src/main/elixir/g0001_0100/s0074_search_a_2d_matrix/Solution.ex)| Medium | Top_100_Liked_Questions, Array, Binary_Search, Matrix, Data_Structure_I_Day_5_Array, Algorithm_II_Day_1_Binary_Search, Binary_Search_I_Day_8, Level_2_Day_8_Binary_Search, Udemy_2D_Arrays/Matrix, Big_O_Time_O(endRow+endCol)_Space_O(1) | 253 | 100.00
 | 0072 |[Edit Distance](src/main/elixir/g0001_0100/s0072_edit_distance/Solution.ex)| Medium | Top_100_Liked_Questions, String, Dynamic_Programming, Algorithm_II_Day_18_Dynamic_Programming, Dynamic_Programming_I_Day_19, Udemy_Dynamic_Programming, Big_O_Time_O(n^2)_Space_O(n2) | 675 | 100.00
 | 0070 |[Climbing Stairs](src/main/elixir/g0001_0100/s0070_climbing_stairs/Solution.ex)| Easy | Top_100_Liked_Questions, Top_Interview_Questions, Dynamic_Programming, Math, Memoization, Algorithm_I_Day_12_Dynamic_Programming, Dynamic_Programming_I_Day_2, Level_1_Day_10_Dynamic_Programming, Udemy_Dynamic_Programming, Big_O_Time_O(n)_Space_O(n) | 255 | 100.00
