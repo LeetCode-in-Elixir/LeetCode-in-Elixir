@@ -2,7 +2,6 @@
 # #Big_O_Time_O(n^2)_Space_O(n) #2024_08_03_Time_362_ms_(85.71%)_Space_121.8_MB_(14.29%)
 
 defmodule Solution do
-
   @spec product_except_self(nums :: [integer]) :: [integer]
   def product_except_self(nums) do
     elem(pes(nums, 1), 0)
