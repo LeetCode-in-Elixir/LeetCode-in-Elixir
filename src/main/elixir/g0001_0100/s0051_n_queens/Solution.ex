@@ -30,7 +30,7 @@ defmodule Solution do
   end
     
   defp normalize(board, n) do
-    for {{x, y}, i} <- Enum.with_index(board) do
+    for { {x, y}, i} <- Enum.with_index(board) do
       0..n-1
       |> Enum.map(fn j ->
         if {n - i - 1, j} == {x, y}, do: "Q", else: "."
