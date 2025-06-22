@@ -1,4 +1,5 @@
-# #Medium #String #2024_07_31_Time_421_ms_(100.00%)_Space_73.2_MB_(100.00%)
+# #Medium #String #Top_Interview_150_Array/String
+# #2024_07_31_Time_421_ms_(100.00%)_Space_73.2_MB_(100.00%)
 
 defmodule Solution do
   @spec convert(s :: String.t, num_rows :: integer) :: String.t

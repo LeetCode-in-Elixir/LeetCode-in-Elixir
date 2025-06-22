@@ -1,6 +1,6 @@
 # #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Array #Matrix #Backtracking
-# #Algorithm_II_Day_11_Recursion_Backtracking #Big_O_Time_O(4^(m*n))_Space_O(m*n)
-# #2024_08_03_Time_1312_ms_(100.00%)_Space_71.1_MB_(100.00%)
+# #Algorithm_II_Day_11_Recursion_Backtracking #Top_Interview_150_Backtracking
+# #Big_O_Time_O(4^(m*n))_Space_O(m*n) #2024_08_03_Time_1312_ms_(100.00%)_Space_71.1_MB_(100.00%)
 
 defmodule Solution do
   @spec exist(board :: [[char]], word :: String.t) :: boolean

@@ -1,4 +1,5 @@
-# #Easy #Math #Udemy_Integers #2024_07_31_Time_1007_ms_(87.50%)_Space_72_MB_(33.93%)
+# #Easy #Math #Udemy_Integers #Top_Interview_150_Math
+# #2024_07_31_Time_1007_ms_(87.50%)_Space_72_MB_(33.93%)
 
 defmodule Solution do
   @spec is_palindrome(x :: integer) :: boolean

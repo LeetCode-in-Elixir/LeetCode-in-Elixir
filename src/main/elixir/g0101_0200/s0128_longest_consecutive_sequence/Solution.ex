@@ -1,5 +1,6 @@
 # #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Array #Hash_Table #Union_Find
-# #Big_O_Time_O(N_log_N)_Space_O(1) #2024_08_03_Time_669_ms_(100.00%)_Space_208.6_MB_(85.71%)
+# #Top_Interview_150_Hashmap #Big_O_Time_O(N_log_N)_Space_O(1)
+# #2024_08_03_Time_669_ms_(100.00%)_Space_208.6_MB_(85.71%)
 
 defmodule Solution do
   @spec longest_consecutive(nums :: [integer]) :: integer

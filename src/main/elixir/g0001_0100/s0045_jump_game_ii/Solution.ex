@@ -1,6 +1,7 @@
 # #Medium #Top_100_Liked_Questions #Array #Dynamic_Programming #Greedy
 # #Algorithm_II_Day_13_Dynamic_Programming #Dynamic_Programming_I_Day_4
-# #Big_O_Time_O(n)_Space_O(1) #2024_08_02_Time_299_ms_(100.00%)_Space_79.2_MB_(33.33%)
+# #Top_Interview_150_Array/String #Big_O_Time_O(n)_Space_O(1)
+# #2024_08_02_Time_299_ms_(100.00%)_Space_79.2_MB_(33.33%)
 
 defmodule Solution do
   @spec jump(nums :: [integer]) :: integer

@@ -1,6 +1,7 @@
 # #Medium #Top_100_Liked_Questions #Top_Interview_Questions #Math #Linked_List #Recursion
 # #Data_Structure_II_Day_10_Linked_List #Programming_Skills_II_Day_15
-# #Big_O_Time_O(max(N,M))_Space_O(max(N,M)) #2024_07_06_Time_353_ms_(88.68%)_Space_72.6_MB_(9.43%)
+# #Top_Interview_150_Linked_List #Big_O_Time_O(max(N,M))_Space_O(max(N,M))
+# #AI_can_be_used_to_solve_the_task #2024_07_06_Time_353_ms_(88.68%)_Space_72.6_MB_(9.43%)
 
 # Definition for singly-linked list.
 #
