@@ -2,7 +2,8 @@
 # #Breadth_First_Search #Matrix #Union_Find
 # #Algorithm_II_Day_6_Breadth_First_Search_Depth_First_Search
 # #Graph_Theory_I_Day_1_Matrix_Related_Problems #Level_1_Day_9_Graph/BFS/DFS #Udemy_Graph
-# #Big_O_Time_O(M*N)_Space_O(M*N) #2024_08_03_Time_463_ms_(100.00%)_Space_133.1_MB_(100.00%)
+# #Top_Interview_150_Graph_General #Big_O_Time_O(M*N)_Space_O(M*N)
+# #2024_08_03_Time_463_ms_(100.00%)_Space_133.1_MB_(100.00%)
 
 defmodule Solution do
   @spec num_islands(grid :: [[char]]) :: integer

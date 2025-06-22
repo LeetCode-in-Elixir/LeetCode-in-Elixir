@@ -1,5 +1,5 @@
-# #Medium #Depth_First_Search #Tree #Binary_Tree #Level_2_Day_7_Tree #Big_O_Time_O(n)_Space_O(n)
-# #2024_08_04_Time_336_ms_(100.00%)_Space_110.5_MB_(100.00%)
+# #Medium #Depth_First_Search #Tree #Binary_Tree #LeetCode_75_Binary_Tree/DFS #Level_2_Day_7_Tree
+# #Big_O_Time_O(n)_Space_O(n) #2024_08_04_Time_336_ms_(100.00%)_Space_110.5_MB_(100.00%)
 
 # Definition for a binary tree node.
 #

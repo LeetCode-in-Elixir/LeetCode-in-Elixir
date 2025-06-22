@@ -1,5 +1,6 @@
-# #Easy #Dynamic_Programming #Bit_Manipulation #Udemy_Bit_Manipulation
-# #Big_O_Time_O(num)_Space_O(num) #2024_08_04_Time_330_ms_(100.00%)_Space_93.2_MB_(100.00%)
+# #Easy #Dynamic_Programming #Bit_Manipulation #LeetCode_75_Bit_Manipulation
+# #Udemy_Bit_Manipulation #Big_O_Time_O(num)_Space_O(num)
+# #2024_08_04_Time_330_ms_(100.00%)_Space_93.2_MB_(100.00%)
 
 defmodule Solution do
   @spec count_bits(n :: integer) :: [integer]

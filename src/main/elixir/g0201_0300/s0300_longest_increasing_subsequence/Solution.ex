@@ -1,6 +1,6 @@
 # #Medium #Top_100_Liked_Questions #Array #Dynamic_Programming #Binary_Search
 # #Algorithm_II_Day_16_Dynamic_Programming #Binary_Search_II_Day_3 #Dynamic_Programming_I_Day_18
-# #Udemy_Dynamic_Programming #Big_O_Time_O(n*log_n)_Space_O(n)
+# #Udemy_Dynamic_Programming #Top_Interview_150_1D_DP #Big_O_Time_O(n*log_n)_Space_O(n)
 # #2024_08_04_Time_259_ms_(100.00%)_Space_75.5_MB_(66.67%)
 
 defmodule Solution do
